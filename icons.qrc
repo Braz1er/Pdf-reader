@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/free-icon-font-check-3917749.png</file>
+    <file>icons/free-icon-font-minus-3917755.png</file>
+    <file>icons/free-icon-font-plus-3917757.png</file>
+    <file>icons/free-icon-font-bookmark-3916594.png</file>
+    <file>icons/free-icon-font-angle-left-3916931.png</file>
+    <file>icons/free-icon-font-angle-right-3916925.png</file>
+    <file>icons/free-icon-font-arrow-left-3916840.png</file>
+    <file>icons/free-icon-font-arrow-up-left-8540384.png</file>
+    <file>icons/free-icon-font-arrow-small-left-3916872.png</file>
+    <file>icons/free-icon-font-arrow-up-right-and-arrow-down-left-from-center-8540385.png</file>
+    <file>icons/free-icon-font-cross-3917759.png</file>
+  </qresource>
+</RCC>
